@@ -1,0 +1,24 @@
+
+.btn {
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    display: block;
+}
+
+.text {
+    border: 2px solid #000000;
+    padding: 10px;
+    transform: scaleY(0);
+    transition: transform 1s;
+}
+
+.active {
+    transform: scaleY(1)
+}
+
+
+
+/*# sourceMappingURL=main.css.map*/
